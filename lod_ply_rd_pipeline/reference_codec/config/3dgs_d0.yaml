@@ -1,0 +1,11 @@
+version: "mix_d0"
+block_size: 16
+sort_method: "dblockn"
+video_codec: "x265"
+# 位深
+pos_bitdepth: 15
+rot_bitdepth: 8
+sca_bitdepth: 8
+op_bitdepth: 8
+sh0_bitdepth: 8
+sh_degree: 0
